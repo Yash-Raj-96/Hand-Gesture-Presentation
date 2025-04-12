@@ -1,11 +1,6 @@
 # Hand Gesture Controlled Presentation
 
-A touch-free presentation control system enabling slide navigation, annotation, and zoom using hand gestures detected via webcam. Ideal for education, corporate settings, and accessibility.
-
----
-
-## 🔹 Description
-A gesture-based presentation controller that allows users to control slide navigation, annotate, erase, and zoom using only hand gestures. Built using Python, OpenCV, NumPy, and MediaPipe, this tool improves user interaction and accessibility during presentations.
+Welcome to the Hand Gesture Controlled Presentation project! This repository contains the implementation of a gesture-based presentation system that allows users to control presentations without the need for traditional remotes, keyboards, or touchscreens. By leveraging computer vision and hand-tracking technologies, this system enables seamless, intuitive, and touch-free interaction with slides during a presentation.
 
 ---
 
