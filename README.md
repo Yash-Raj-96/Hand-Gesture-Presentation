@@ -75,10 +75,10 @@ Make sure your webcam is connected and active.
 
 ## 📸 Preview
 
-📢 Gesture Overview         
-📄 Slide Navigation        
-✏️ Drawing/Annotation
-🔄 Zoom Gesture       
+- 📢 Gesture Overview         
+- 📄 Slide Navigation        
+- ✏️ Drawing/Annotation
+- 🔄 Zoom Gesture       
 
 
 ---
