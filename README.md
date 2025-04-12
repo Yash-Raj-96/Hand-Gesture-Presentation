@@ -77,8 +77,8 @@ Make sure your webcam is connected and active.
 
  📢 Gesture Overview         
  📄 Slide Navigation        
- ✏️ Drawing/Annotation
- 🔄 Zoom Gesture       
+ ✏️ Drawing/Annotation        
+  🔄 Zoom Gesture       
 
 
 ---
