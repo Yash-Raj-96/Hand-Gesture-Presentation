@@ -89,8 +89,7 @@ Make sure your webcam is connected and active.
 ---
 
 ## 🚀 Author
-**Yash Raj**  
-[GitHub Profile](https://github.com/Yash-Raj-96)
+Made with ❤️ by **Yash Raj**
 
 ---
 
